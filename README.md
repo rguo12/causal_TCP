@@ -4,6 +4,8 @@
 
 Code for the KDD '24 paper, [Conformal Counterfactual Inference under Hidden Confounding](https://arxiv.org/abs/2405.12387).
 
+[2-min Promotional Video](https://www.youtube.com/watch?v=7TdtsjpOFy8)
+
 **First Work on Handling Hidden Confounding for Conformal Causal Inference without strong assumptions such as Bounds on the Density Ratio**
 
 For now, please cite the arxiv version if you find this paper/repository is helpful.
